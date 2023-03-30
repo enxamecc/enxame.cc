@@ -1,0 +1,21 @@
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: #0DCAF0;
+  }
+  
+  ::selection {
+    color: white;
+    background: #0DCAF0;
+  }
+
+.main-color {
+  color: #FDC81B;
+}
+
+.flex-column { 
+  max-width : 300px;
+}
+
+img {
+  margin: 5px;
+}
